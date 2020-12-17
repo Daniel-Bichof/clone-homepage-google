@@ -1,0 +1,18 @@
+<svg viewBox="-10 10 100 30" xmlns="http://www.w3.org/2000/svg">
+
+    <style>
+    *{font-family: cursive, sans-serif;}
+    .s{fill:#0856D7;}
+    .e{fill:#EF5E52;}
+    .a{fill:#F8C83C;}
+    .r{fill:#0856D7;}
+    .c{fill:#2eb921;}
+    .h{fill:#EF5E52;}
+    </style>
+    <text x="10" y="35" class="s">S</text>
+    <text x="20" y="35" class="e">E</text>
+    <text x="30" y="35" class="a">A</text>
+    <text x="40" y="35" class="r">R</text>
+    <text x="50" y="35" class="c">C</text>
+    <text x="60" y="35" class="h">H</text>
+</svg>
